@@ -15,7 +15,7 @@ I am a Masters student studying rhetoric at Carnegie Mellon University. My main 
 
 My career goals consist of working in publishing as an editor. I have experience working as a bookseller and really enjoyed the customer-side of the book world, now I am interested in the back end of book publishing.
 
-What I Do?
+# What I Do?
 
 In the fall of 2022 I worked for CMU ETC Press, an open source academic publishing house focused on games and technology. I currently work as a Communication and Language Support Consultant at CMU's Communication and Language Support Center, a part of the Student Academic Success Center.
 
